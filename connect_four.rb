@@ -1,3 +1,5 @@
+require './lib/player.rb'
+require './lib/game.rb'
 puts '----------CONNECT 4----------'
 puts 'Please enter your names.'
 puts 'Player 1: '
